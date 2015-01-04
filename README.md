@@ -1,4 +1,4 @@
 screenflip
 ----------
 
-![screenshot of script in action](https://raw.github.com/frodopwns/screenflip/blob/master/screenshot.png)
+![screenshot of script in action](https://raw.githubusercontent.com/frodopwns/screenflip/master/screenshot.png)
