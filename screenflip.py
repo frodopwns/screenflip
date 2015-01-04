@@ -53,7 +53,7 @@ if __name__ == "__main__":
         splash_pix = QPixmap('testing0.bmp')
         splash = QSplashScreen(splash_pix, Qt.WindowStaysOnTopHint)
         #splash.setMask(splash_pix.mask())
-        splash.move(300, from_top)
+        splash.move(500, from_top)
         splash.show()
         app.processEvents()
 
@@ -62,3 +62,4 @@ if __name__ == "__main__":
 
     splash.finish()
     app.exec_()
+    sys.exit()
